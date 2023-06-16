@@ -1,0 +1,146 @@
+
+ATLAS_MAP.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 194, 8
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+1s
+  rotate: false
+  xy: 130, 2
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1935, 1991
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+2s
+  rotate: false
+  xy: 2, 2
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 773, 342
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+3s
+  rotate: false
+  xy: 66, 2
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+Daco
+  rotate: false
+  xy: 2, 331
+  size: 623, 580
+  orig: 623, 580
+  offset: 0, 0
+  index: 2008543
+Enemigo1
+  rotate: false
+  xy: 627, 331
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+Enemigo2
+  rotate: false
+  xy: 700, 331
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+bola
+  rotate: false
+  xy: 854, 1470
+  size: 1024, 576
+  orig: 1024, 576
+  offset: 0, 0
+  index: -1
+enemigob
+  rotate: false
+  xy: 1880, 1979
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+flecha1
+  rotate: false
+  xy: 627, 399
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+flecha2
+  rotate: false
+  xy: 1410, 956
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 854, 914
+  size: 554, 554
+  orig: 554, 554
+  offset: 0, 0
+  index: -1
+gokuizquierda
+  rotate: false
+  xy: 713, 282
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+gokupose2
+  rotate: false
+  xy: 1880, 1930
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+paisaje
+  rotate: false
+  xy: 2, 913
+  size: 850, 1133
+  orig: 850, 1133
+  offset: 0, 0
+  index: -1
+primer
+  rotate: false
+  xy: 258, 21
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+shenron
+  rotate: false
+  xy: 1141, 426
+  size: 350, 486
+  orig: 350, 486
+  offset: 0, 0
+  index: -1
+startimage
+  rotate: false
+  xy: 2, 65
+  size: 709, 264
+  orig: 709, 264
+  offset: 0, 0
+  index: -1
